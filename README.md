@@ -21,15 +21,15 @@ Swiftui program with a Calendar where you can add and edit your Appointments for
 
   > Can be used to store, as a daily log, say for job search, or diary.
 
-# Main view
+## Main view
 
 <img width="379" alt="main screen" src="https://github.com/mahesh46/Appointments/assets/3464277/15cc9de4-a3e0-4362-b8a3-ef6843b6420b">
 
-# Add appointment and set reminder
+## Add appointment and set reminder
 
 <img width="376" alt="setReminder" src="https://github.com/mahesh46/Appointments/assets/3464277/60f57e33-34fb-4488-af3f-4f0701147ffa">
 
-# Notification 
+## Notification 
 
 <img width="368" alt="notification" src="https://github.com/mahesh46/Appointments/assets/3464277/cdda0caf-0e0f-4605-8466-f25a5a6fbc1d">
 
