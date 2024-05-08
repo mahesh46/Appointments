@@ -19,6 +19,6 @@ Swiftui program with a Calendar where you can add and edit your Appointments for
 
   > Ability to export the stored data into a .csv file, so that you can see all your appointments and reminders set in a spreadsheet.
 
-  > Can be used to store, as a daily log, say for job search, or diary
+  > Can be used to store, as a daily log, say for job search, or diary.
 
 
