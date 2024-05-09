@@ -378,8 +378,7 @@
 				FC04C6552BECF9DC0035E0B9 /* Model.xcdatamodel */,
 			);
 			currentVersion = FC04C6552BECF9DC0035E0B9 /* Model.xcdatamodel */;
-			name = Model.xcdatamodeld;
-			path = /Users/maheshlad/Desktop/SourceTree/Appointments/Appointments/Model.xcdatamodeld;
+			path = Model.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
