@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FC04C6562BECF9DC0035E0B9 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FC04C6542BECF9DC0035E0B9 /* Model.xcdatamodeld */; };
 		FC803C2F2BE1AD9400D0B233 /* Reminder.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC803C2E2BE1AD9400D0B233 /* Reminder.swift */; };
 		FCFDDE6B2BDC0502006674F2 /* AppointmentsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCFDDE6A2BDC0502006674F2 /* AppointmentsApp.swift */; };
 		FCFDDE6F2BDC0504006674F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FCFDDE6E2BDC0504006674F2 /* Assets.xcassets */; };
@@ -14,12 +15,12 @@
 		FCFDDE7C2BDC0651006674F2 /* AppointmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCFDDE7B2BDC0651006674F2 /* AppointmentView.swift */; };
 		FCFDDE7E2BDC06B5006674F2 /* AddAppointmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCFDDE7D2BDC06B5006674F2 /* AddAppointmentView.swift */; };
 		FCFDDE802BDC074A006674F2 /* CalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCFDDE7F2BDC074A006674F2 /* CalendarView.swift */; };
-		FCFDDE852BDC1214006674F2 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FCFDDE832BDC1214006674F2 /* Model.xcdatamodeld */; };
 		FCFDDE892BDC25CF006674F2 /* PersistenceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCFDDE882BDC25CF006674F2 /* PersistenceController.swift */; };
 		FCFDDE8B2BDC2CF3006674F2 /* EditAppointmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCFDDE8A2BDC2CF3006674F2 /* EditAppointmentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FC04C6552BECF9DC0035E0B9 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
 		FC803C2E2BE1AD9400D0B233 /* Reminder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reminder.swift; sourceTree = "<group>"; };
 		FCFDDE672BDC0502006674F2 /* Appointments.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Appointments.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCFDDE6A2BDC0502006674F2 /* AppointmentsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppointmentsApp.swift; sourceTree = "<group>"; };
@@ -28,7 +29,6 @@
 		FCFDDE7B2BDC0651006674F2 /* AppointmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppointmentView.swift; sourceTree = "<group>"; };
 		FCFDDE7D2BDC06B5006674F2 /* AddAppointmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddAppointmentView.swift; sourceTree = "<group>"; };
 		FCFDDE7F2BDC074A006674F2 /* CalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarView.swift; sourceTree = "<group>"; };
-		FCFDDE842BDC1214006674F2 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
 		FCFDDE882BDC25CF006674F2 /* PersistenceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistenceController.swift; sourceTree = "<group>"; };
 		FCFDDE8A2BDC2CF3006674F2 /* EditAppointmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditAppointmentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -70,7 +70,7 @@
 				FCFDDE8A2BDC2CF3006674F2 /* EditAppointmentView.swift */,
 				FCFDDE7D2BDC06B5006674F2 /* AddAppointmentView.swift */,
 				FC803C2E2BE1AD9400D0B233 /* Reminder.swift */,
-				FCFDDE832BDC1214006674F2 /* Model.xcdatamodeld */,
+				FC04C6542BECF9DC0035E0B9 /* Model.xcdatamodeld */,
 				FCFDDE6E2BDC0504006674F2 /* Assets.xcassets */,
 				FCFDDE702BDC0504006674F2 /* Preview Content */,
 			);
@@ -159,7 +159,7 @@
 				FCFDDE7E2BDC06B5006674F2 /* AddAppointmentView.swift in Sources */,
 				FCFDDE802BDC074A006674F2 /* CalendarView.swift in Sources */,
 				FCFDDE8B2BDC2CF3006674F2 /* EditAppointmentView.swift in Sources */,
-				FCFDDE852BDC1214006674F2 /* Model.xcdatamodeld in Sources */,
+				FC04C6562BECF9DC0035E0B9 /* Model.xcdatamodeld in Sources */,
 				FCFDDE7C2BDC0651006674F2 /* AppointmentView.swift in Sources */,
 				FCFDDE6B2BDC0502006674F2 /* AppointmentsApp.swift in Sources */,
 				FC803C2F2BE1AD9400D0B233 /* Reminder.swift in Sources */,
@@ -372,14 +372,14 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		FCFDDE832BDC1214006674F2 /* Model.xcdatamodeld */ = {
+		FC04C6542BECF9DC0035E0B9 /* Model.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				FCFDDE842BDC1214006674F2 /* Model.xcdatamodel */,
+				FC04C6552BECF9DC0035E0B9 /* Model.xcdatamodel */,
 			);
-			currentVersion = FCFDDE842BDC1214006674F2 /* Model.xcdatamodel */;
+			currentVersion = FC04C6552BECF9DC0035E0B9 /* Model.xcdatamodel */;
 			name = Model.xcdatamodeld;
-			path = /Users/maheshlad/Desktop/Appointments/Appointments/Model.xcdatamodeld;
+			path = /Users/maheshlad/Desktop/SourceTree/Appointments/Appointments/Model.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};

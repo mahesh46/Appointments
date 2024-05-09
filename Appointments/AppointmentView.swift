@@ -100,6 +100,12 @@ struct AppointmentView: View {
     }
 }
 
-#Preview {
-    AppointmentView()
+//#Preview {
+//    AppointmentView()
+//}
+
+struct AppointmentView_Previews: PreviewProvider {
+    static var previews: some View {
+        AppointmentView()
+    }
 }
