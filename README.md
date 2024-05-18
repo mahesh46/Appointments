@@ -15,7 +15,7 @@ Swiftui program with a Calendar where you can add and edit your Appointments for
 
   > Appointments shown in a list for Date selected.
 
-  > Can be used as a time table schedule app, Ten lines of text avavailable
+  > Can be used as a time table schedule app, Ten lines of text available
 
   > Ability to export the stored data into a .csv file, so that you can see all your appointments and reminders set in a spreadsheet.
 
